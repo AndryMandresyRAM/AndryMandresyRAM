@@ -1,7 +1,7 @@
 # Andry Mandresy RAMAHALEOHANITRARIVO
 Hello Friend<br/>
 I'm **Andry Mandresy RAMAHALEOHANITRARIVO**<br/>
-I'm a software developer, I love Microsoft and Google Technology.*<br/>
+I'm a software developer, I love Microsoft and Google Technology.<br/>
 Actually I work for _COMDATA Digital_ as a _Business Intelligence Developer_ specialized in Reporting tool.<br/>
 
 ## Profile
